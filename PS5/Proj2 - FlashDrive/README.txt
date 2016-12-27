@@ -1,4 +1,4 @@
-# CS52-PS5-Proj2
+Problem Set 5, Project 2 : FlashDrive
 
 PROGRAMMER NAME : Kimberly Hernandez
 
